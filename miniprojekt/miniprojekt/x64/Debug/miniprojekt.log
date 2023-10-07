@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\kcbal\source\repos\miniprojekt\miniprojekt\Main.cpp(20,48): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\kcbal\source\repos\miniprojekt\miniprojekt\Main.cpp(28,49): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\kcbal\source\repos\miniprojekt\miniprojekt\Main.cpp(37,49): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\kcbal\source\repos\miniprojekt\miniprojekt\Main.cpp(46,49): warning C4305: "argument": obcięcie z "double" do "float"
+  miniprojekt.vcxproj -> C:\Users\kcbal\source\repos\miniprojekt\x64\Debug\miniprojekt.exe
